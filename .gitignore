@@ -103,3 +103,4 @@ ENV/
 /.idea/modules.xml
 /.idea/Twitter-Sentiment-Dashboard.iml
 /.idea/vcs.xml
+/errors.txt
